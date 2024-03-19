@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		402619DB2BAA41260095C39A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		40419CD72BA917B400F1AE75 /* test-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "test-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40419CDA2BA917B400F1AE75 /* test_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_1App.swift; sourceTree = "<group>"; };
 		40419CDC2BA917B400F1AE75 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 		40419CD92BA917B400F1AE75 /* test-1 */ = {
 			isa = PBXGroup;
 			children = (
+				402619DB2BAA41260095C39A /* Info.plist */,
 				40419CDA2BA917B400F1AE75 /* test_1App.swift */,
 				40419CDC2BA917B400F1AE75 /* ContentView.swift */,
 				40419CDE2BA917B600F1AE75 /* Assets.xcassets */,
@@ -425,6 +427,7 @@
 				DEVELOPMENT_TEAM = JTW3HFSSJ3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "test-1/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -454,6 +457,7 @@
 				DEVELOPMENT_TEAM = JTW3HFSSJ3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "test-1/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
