@@ -99,6 +99,13 @@
     {
       "idiom" : "universal",
       "platform" : "ios",
+      "filename" : "152x152.png",
+      "size" : "152x152"
+    },
+    {
+      "idiom" : "universal",
+      "platform" : "ios",
+      "filename" : "1024x1024.png",
       "size" : "1024x1024"
     }
   ],
